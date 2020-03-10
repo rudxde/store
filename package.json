@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/MichaRedM/store#readme",
   "dependencies": {
+    "archiver": "^3.1.1",
     "request": "^2.88.2",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
+    "@types/archiver": "^3.1.0",
     "@types/node": "^13.9.0",
     "@types/request": "^2.48.4"
   }
