@@ -1,0 +1,29 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index",
+  "types": "dist/index",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaRedM/store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaRedM/store/issues"
+  },
+  "homepage": "https://github.com/MichaRedM/store#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "@types/request": "^2.48.4"
+  }
+}
