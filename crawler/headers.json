@@ -1,0 +1,261 @@
+[
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1583840441400.html",
+        "header": {
+            "hash": "710ee6c251",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundesland"
+                },
+                {
+                    "index": 1,
+                    "tag": "Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": "Todesfälle"
+                },
+                {
+                    "index": 3,
+                    "tag": "Beson­ders betroffene Ge­biete in Deutsch­land"
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundesland</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">F&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\">Todesf&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\">Beson&#xAD;ders betroffene Ge&#xAD;biete in Deutsch&#xAD;land</th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1584042577449.html",
+        "header": {
+            "hash": "bc2a7a7597",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundesland"
+                },
+                {
+                    "index": 1,
+                    "tag": "Zahl be­stä­tig­ter Fälle\n(darunter Todes­fälle)"
+                },
+                {
+                    "index": 2,
+                    "tag": "davon elek­tro­nisch über­mittelt \n(darunter Todes­fälle)"
+                },
+                {
+                    "index": 3,
+                    "tag": "Beson­ders be­trof­fene Gebiete in Deutsch­land"
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundesland</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">Zahl be&#xAD;st&#xE4;&#xAD;tig&#xAD;ter F&#xE4;lle<br>\n(darunter Todes&#xAD;f&#xE4;lle)</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">davon elek&#xAD;tro&#xAD;nisch &#xFC;ber&#xAD;mittelt <br>\n(darunter Todes&#xAD;f&#xE4;lle)</th><th colspan=\"1\" rowspan=\"1\">Beson&#xAD;ders be&#xAD;trof&#xAD;fene Gebiete in Deutsch&#xAD;land</th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1584469456774.html",
+        "header": {
+            "hash": "207f691314",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundesland"
+                },
+                {
+                    "index": 1,
+                    "tag": "Elektronisch übermittelte Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": "Beson­ders be­trof­fene Gebiete in Deutsch­land"
+                },
+                {
+                    "index": 3,
+                    "tag": ""
+                },
+                {
+                    "index": 4,
+                    "tag": "An­zahl"
+                },
+                {
+                    "index": 5,
+                    "tag": "Dif­fe­renz zum Vor­tag"
+                },
+                {
+                    "index": 6,
+                    "tag": "Erkr./ 100.000 Einw."
+                },
+                {
+                    "index": 7,
+                    "tag": "Todes­fälle"
+                },
+                {
+                    "index": 8,
+                    "tag": ""
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundesland</th><th class=\"center\" colspan=\"4\" rowspan=\"1\">Elektronisch &#xFC;bermittelte F&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\">Beson&#xAD;ders be&#xAD;trof&#xAD;fene Gebiete in Deutsch&#xAD;land</th></tr><tr><th colspan=\"1\" rowspan=\"1\"></th><th colspan=\"1\" rowspan=\"1\">An&#xAD;zahl</th><th colspan=\"1\" rowspan=\"1\">Dif&#xAD;fe&#xAD;renz zum Vor&#xAD;tag</th><th colspan=\"1\" rowspan=\"1\">Erkr./ 100.000 Einw.</th><th colspan=\"1\" rowspan=\"1\">Todes&#xAD;f&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\"></th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1584694810797.html",
+        "header": {
+            "hash": "b77e919548",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundesland"
+                },
+                {
+                    "index": 1,
+                    "tag": "Elektronisch übermittelte Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": "Beson­ders be­trof­fene Gebiete in Deutsch­land"
+                },
+                {
+                    "index": 3,
+                    "tag": ""
+                },
+                {
+                    "index": 4,
+                    "tag": "An­zahl"
+                },
+                {
+                    "index": 5,
+                    "tag": "Dif­fe­renz zum Vor­tag"
+                },
+                {
+                    "index": 6,
+                    "tag": "Fälle/ 100.000 Einw."
+                },
+                {
+                    "index": 7,
+                    "tag": "Todes­fälle"
+                },
+                {
+                    "index": 8,
+                    "tag": ""
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundesland</th><th class=\"center\" colspan=\"4\" rowspan=\"1\">Elektronisch &#xFC;bermittelte F&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\">Beson&#xAD;ders be&#xAD;trof&#xAD;fene Gebiete in Deutsch&#xAD;land</th></tr><tr><th colspan=\"1\" rowspan=\"1\"></th><th colspan=\"1\" rowspan=\"1\">An&#xAD;zahl</th><th colspan=\"1\" rowspan=\"1\">Dif&#xAD;fe&#xAD;renz zum Vor&#xAD;tag</th><th colspan=\"1\" rowspan=\"1\">F&#xE4;lle/ 100.000 Einw.</th><th colspan=\"1\" rowspan=\"1\">Todes&#xAD;f&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\"></th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1584781232124.html",
+        "header": {
+            "hash": "c00ec258af",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundes­land"
+                },
+                {
+                    "index": 1,
+                    "tag": "Elektro­nisch über­mittelte Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": "Beson­ders be­trof­fene Gebiete in Deutsch­land"
+                },
+                {
+                    "index": 3,
+                    "tag": ""
+                },
+                {
+                    "index": 4,
+                    "tag": "An­zahl"
+                },
+                {
+                    "index": 5,
+                    "tag": "Dif­fe­renz zum Vor­tag"
+                },
+                {
+                    "index": 6,
+                    "tag": "Fälle/ 100.000 Einw."
+                },
+                {
+                    "index": 7,
+                    "tag": "Todes­fälle"
+                },
+                {
+                    "index": 8,
+                    "tag": ""
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundes&#xAD;land</th><th class=\"center\" colspan=\"4\" rowspan=\"1\">Elektro&#xAD;nisch &#xFC;ber&#xAD;mittelte F&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\">Beson&#xAD;ders be&#xAD;trof&#xAD;fene Gebiete in Deutsch&#xAD;land</th></tr><tr><th colspan=\"1\" rowspan=\"1\"></th><th colspan=\"1\" rowspan=\"1\">An&#xAD;zahl</th><th colspan=\"1\" rowspan=\"1\">Dif&#xAD;fe&#xAD;renz zum Vor&#xAD;tag</th><th colspan=\"1\" rowspan=\"1\">F&#xE4;lle/ 100.000 Einw.</th><th colspan=\"1\" rowspan=\"1\">Todes&#xAD;f&#xE4;lle</th><th colspan=\"1\" rowspan=\"1\"></th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1585668844205.html",
+        "header": {
+            "hash": "2fb12621bb",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundes­land"
+                },
+                {
+                    "index": 1,
+                    "tag": "Elektro­nisch über­mittelte Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": ""
+                },
+                {
+                    "index": 3,
+                    "tag": "An­zahl"
+                },
+                {
+                    "index": 4,
+                    "tag": "Dif­fe­renz zum \nVor­tag"
+                },
+                {
+                    "index": 5,
+                    "tag": "Fälle/ 100.000 Einw."
+                },
+                {
+                    "index": 6,
+                    "tag": "Todes­fälle"
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundes&#xAD;land</th><th class=\"center\" colspan=\"4\" rowspan=\"1\">Elektro&#xAD;nisch &#xFC;ber&#xAD;mittelte F&#xE4;lle</th></tr><tr><th colspan=\"1\" rowspan=\"1\"></th><th colspan=\"1\" rowspan=\"1\">An&#xAD;zahl</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">Dif&#xAD;fe&#xAD;renz zum <br>\nVor&#xAD;tag</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">F&#xE4;lle/ 100.000 Einw.</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">Todes&#xAD;f&#xE4;lle</th></tr>"
+        }
+    },
+    {
+        "fileName": "C:\\Users\\rudx\\Downloads\\coro\\files\\1585723757268.html",
+        "header": {
+            "hash": "af455db7da",
+            "fields": [
+                {
+                    "index": 0,
+                    "tag": "Bundes­land"
+                },
+                {
+                    "index": 1,
+                    "tag": "Elektro­nisch über­mittelte Fälle"
+                },
+                {
+                    "index": 2,
+                    "tag": ""
+                },
+                {
+                    "index": 3,
+                    "tag": "An­zahl"
+                },
+                {
+                    "index": 4,
+                    "tag": "Dif­fe­renz zum \nVor­tag"
+                },
+                {
+                    "index": 5,
+                    "tag": "Fälle/ 100.000 Einw."
+                },
+                {
+                    "index": 6,
+                    "tag": "Todes­fälle"
+                }
+            ],
+            "html": "<tr><th colspan=\"1\" rowspan=\"1\">Bundes&#xAD;land</th><th class=\"center\" colspan=\"4\" rowspan=\"1\">Elektro&#xAD;nisch &#xFC;ber&#xAD;mittelte F&#xE4;lle</th></tr><tr><th colspan=\"1\" rowspan=\"1\"></th><th class=\"center\" colspan=\"1\" rowspan=\"1\">An&#xAD;zahl</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">Dif&#xAD;fe&#xAD;renz zum <br>\nVor&#xAD;tag</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">F&#xE4;lle/ 100.000 Einw.</th><th class=\"center\" colspan=\"1\" rowspan=\"1\">Todes&#xAD;f&#xE4;lle</th></tr>"
+        }
+    }
+]

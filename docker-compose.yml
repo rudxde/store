@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  crawler:
+    build:
+      context: ./crawler/
+      dockerfile: ./DOCKERFILE
+    volumes:
+      - ./files:/usr/src/files
+  host:
+    build:
+      context: ./host/
+      dockerfile: ./DOCKERFILE
+    # networks:
+    #   - front-bone
+    volumes:
+      - ./files/result.json:/usr/share/nginx/html/assets/result.json
+
+# networks:
+#   front-bone:
+#     external: true
