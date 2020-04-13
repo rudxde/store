@@ -11,11 +11,11 @@ services:
     build:
       context: ./host/
       dockerfile: ./DOCKERFILE
-    # networks:
-    #   - front-bone
+    networks:
+      - front-bone
     volumes:
       - ./files/result.json:/usr/share/nginx/html/assets/result.json
 
-# networks:
-#   front-bone:
-#     external: true
+networks:
+  front-bone:
+    external: true
