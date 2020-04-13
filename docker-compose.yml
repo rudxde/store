@@ -11,6 +11,7 @@ services:
     build:
       context: ./host/
       dockerfile: ./DOCKERFILE
+    hostname: corona-host
     networks:
       - front-bone
     volumes:
